@@ -1,6 +1,6 @@
 # Text classification with an RNN [LSTM]
 
-#picture
+![11](https://github.com/user-attachments/assets/aad5d3a2-7ba6-4306-acbc-6eda8783f8d8)
 
 1. Download and Imports
 2. Functions
